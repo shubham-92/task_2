@@ -1,0 +1,21 @@
+.sheet {
+  padding: 20px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 6px;
+}
+
+input {
+  width: 80px;
+}
+
+.computed {
+  font-size: 12px;
+  color: #555;
+}
